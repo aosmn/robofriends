@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://aosmn.github.io/robofriends",
   "dependencies": {
+    "fetch-mock": "^9.10.5",
     "gh-pages": "^2.2.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -11,6 +12,7 @@
     "react-scripts": "^3.4.1",
     "redux": "^4.0.5",
     "redux-logger": "^3.0.6",
+    "redux-mock-store": "^1.5.4",
     "redux-thunk": "^2.3.0",
     "tachyons": "^4.12.0"
   },
