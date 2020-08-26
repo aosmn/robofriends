@@ -6,6 +6,7 @@
   "dependencies": {
     "fetch-mock": "^9.10.7",
     "gh-pages": "^2.2.0",
+    "node-fetch": "^2.6.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-redux": "^7.2.1",
